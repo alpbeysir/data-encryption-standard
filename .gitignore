@@ -1,0 +1,4 @@
+
+*.ipch
+*.db
+.vs/cryptography/v16/.suo
